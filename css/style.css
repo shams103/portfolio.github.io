@@ -110,7 +110,7 @@ html{
 
 .home{
     display: flex;
-    background: url("/images/chocolate-183543_1920.jpg") no-repeat center;
+    background: url("../images/chocolate-183543_1920.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
